@@ -1,4 +1,4 @@
-#👋 Hi, I'm **Sami Furkan Yildirim**
+👋 Hi, I'm **Sami Furkan Yildirim**
 ## Master's Student in Statistics and Machine Learning
 
 Welcome to my GitHub! I'm a passionate **problem-solver** and **lifelong learner**, constantly exploring the intersection of **AI**, **Machine Learning**, and **Technology**. My goal is to build impactful solutions that drive innovation and solve real-world problems. I thrive on creating projects that inspire creativity and push the boundaries of what's possible.
